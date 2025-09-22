@@ -2,5 +2,11 @@
 name = "swivel"
 version = "0.1.0"
 edition = "2021"
+description = "One trait, many databases: a tiny Rust adapter layer for Notion, Supabase, and Postgres."
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/suhailphotos/swivel"
+keywords = ["database", "adapter", "traits", "notion", "supabase", "postgres"]
+categories = ["database", "api-bindings"]
 
 [dependencies]
