@@ -6,7 +6,7 @@ description = "One trait, many databases: a tiny Rust adapter layer for Notion, 
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/suhailphotos/swivel"
-keywords = ["database", "adapter", "traits", "notion", "supabase", "postgres"]
+keywords = ["database", "traits", "notion", "supabase", "postgres"]
 categories = ["database", "api-bindings"]
 
 [dependencies]
